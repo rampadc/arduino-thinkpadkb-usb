@@ -1,0 +1,37 @@
+<VisualMicro>
+  <Program Name="MicroThinkPadAdapter" Ext=".ino" Location="D:\Arduino_workspace\arduino-thinkpad\MicroThinkPadAdapter">
+    <Platform Name="arduino10x" Package="arduino" Platform="avr" Architecture="avr">
+      <Board Name="micro" Description="Arduino Micro" CoreFolder="C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino" VariantFullPath="C:\Program Files (x86)\Arduino\hardware\arduino\variants\micro" McuIdePath="C:\Program Files (x86)\Arduino" McuSketchBookPath="D:\Arduino_workspace\arduino-thinkpad" name="Arduino Micro" upload.protocol="avr109" upload.maximum_size="28672" upload.speed="57600" upload.disable_flushing="true" bootloader.low_fuses="0xff" bootloader.high_fuses="0xd8" bootloader.extended_fuses="0xcb" bootloader.path="caterina" bootloader.file="Caterina-Micro.hex" bootloader.unlock_bits="0x3F" bootloader.lock_bits="0x2F" build.mcu="atmega32u4" build.f_cpu="16000000L" build.vid="0x2341" build.pid="0x8037" build.core="arduino" build.variant="micro" runtime.ide.path="C:\Program Files (x86)\Arduino" build.system.path="C:\Program Files (x86)\Arduino\hardware\arduino\system" runtime.ide.version="105" originalid="micro" vm.platform.root.path="C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\arduino10x" build.core.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino" build.core.parentfolder.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\cores" build.core.coresparentfolder.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino" vm.core.include="arduino.h" ide.hint="Arduino 0023 and 1.0.x Ide" ide.location.key="Arduino" ide.location.ide.winreg="Arduino 1.0.x Application" ide.location.sketchbook.winreg="Arduino 1.0.x Sketchbook" ide.location.sketchbook.preferences="sketchbook.path" ide.location.sketchbook.default="%MYDOCUMENTS%\arduino" ide.location.preferences="%VM_APPDATA_ROAMING%\arduino\preferences.txt" ide.default.package="arduino" ide.default.platform="avr" ide.multiplatform="true" ide.includes="arduino.h" ide.platformswithoutpackage="true" ide.includes.fallback="wprogram.h" ide.extension="ino" ide.extension.fallback="pde" ide.versionLTEQ="149" ide.exe="arduino.exe" ide.hosts="atmel" ide.url="http://arduino.cc/en/Main/Software" vm.debug="true" software="ARDUINO" ide.appid="arduino10x" location.sketchbook="D:\Arduino_workspace\arduino-thinkpad" build.board="AVR_MICRO" vm.boardsource.path="C:\Program Files (x86)\Arduino\hardware\arduino" vm.platformname.name="avr" build.arch="AVR" vm.runtime.compiler.showwarnings="false" build.variant.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\variants\micro" compiler.path="C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\" includes=" -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino&quot;  -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\variants\micro&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries\SPI&quot;  -I&quot;D:\Arduino_workspace\arduino-thinkpad\libraries\TrackPointExtended&quot;  -I&quot;D:\Arduino_workspace\arduino-thinkpad\libraries\MCP23S17_Input&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries&quot;  -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\libraries&quot;  -I&quot;C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\default\debuggers&quot;  -I&quot;D:\Arduino_workspace\arduino-thinkpad\libraries&quot; " build.path="C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro" build.project_name="MicroThinkPadAdapter" build.variant.path="C:\Program Files (x86)\Arduino\hardware\arduino\variants\micro" archive_file="core.a" object_file="C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro\MCP23S17_Input\MCP23S17_InputsOnly.cpp.o" source_file="D:\Arduino_workspace\arduino-thinkpad\libraries\MCP23S17_Input\MCP23S17_InputsOnly.cpp" object_files="&quot;C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro\MicroThinkPadAdapter.cpp.o&quot; &quot;C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro\VM_DBG\VM_mem_check.c.o&quot; &quot;C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro\VM_DBG\VM_DBG.cpp.o&quot; &quot;C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro\SPI\SPI.cpp.o&quot; &quot;C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro\TrackPointExtended\TrackPoint.cpp.o&quot; &quot;C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro\MCP23S17_Input\MCP23S17_InputsOnly.cpp.o&quot; " build.architecture="avr" vmresolved.compiler.path="C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\" vmresolved.tools.path="C:\Program Files (x86)\Arduino\hardware\tools\avr" />
+    </Platform>
+    <Compile CompilerErrors="0" ConfigurationName="Debug" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\CONG\AppData\Local\VMicro\Arduino\Builds\MicroThinkPadAdapter\micro" IsDebugStart="1" SketchName="MicroThinkPadAdapter" ReportDigitalPins="0" ReportAnalogPins="0" ReportI2C="0" ReportFreeMemory="0" IncludeDebug="1" LastDebugPreProcessorDefinitions="VM_DEBUG;VM_DEBUG_ENABLE 1;VM_DEBUG_BANDWIDTH_THROTTLE_MS 33;VM_DEBUGGER_TYPE_HARDWARESERIAL 0;VM_DEBUGGER_TYPE_SOFTWARESERIAL 1;VM_DEBUGGER_TYPE_FASTSERIAL 2;VM_DEBUGGER_TYPE_USB 3;VM_DEBUGGER_TYPE_TEENSY 4;VM_DEBUGGER_TYPE_UART 5;VM_DEBUGGER_TYPE_USART 6;VM_DEBUGGER_TYPE_USBSERIAL 7;VM_DEBUGGER_TYPE_TTYUART 8;VM_DEBUGGER_TYPE_NET_CONSOLE 9;VM_DEBUGGER_TYPE VM_DEBUGGER_TYPE_USB;" IncludesDebug="1" IsCompiled="1" />
+    <Debug DebugEnabled="1" />
+    <VCCodeModel>
+      <VCCodeMacros />
+    </VCCodeModel>
+    <BreakPoints>
+      <BreakPoint Index="1" Name="MicroThinkPadAdapter.ino, line 108 character 1" Id="ec40e73d-1991-4790-aa94-c926a9773b3c" Enabled="1" Message="{millis()}" MessageTextType="2" PreProcessedMessage="{0}" Condition="millis()&gt;0 || millis()&gt;1" ConditionType="1" CurrentHits="0" File="d:\arduino_workspace\arduino-thinkpad\microthinkpadadapter\microthinkpadadapter.ino" FileLine="108" FileColumn="1" FunctionName="" FunctionLineOffset="1" FunctionColumnOffset="1" HitCountTarget="250" HitCountType="4" Language="AVR GCC" LocationType="3" Tag="&lt;vmbp Id='ec40e73d-1991-4790-aa94-c926a9773b3c'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="1">
+        <Source>101		Serial.begin(9600);
+102		
+103		trackpoint.reset();
+104		trackpoint.setSensitivityFactor(0xC0);
+105		trackpoint.setRemoteMode();
+106	}
+107	
+--&gt;108	void loop()
+109	{
+110		//TrackPoint in stream mode
+111		TrackPoint::DataReport d = trackpoint.readData();
+112		if (d.state &amp; (1 &lt;&lt; 2)) { // middle button down =&gt; scroll
+113			Mouse.move(0, 0, d.y);
+114			} else {
+115			Mouse.move(d.x, -d.y, 0);
+116			sendButtonState(d.state);
+117		}
+</Source>
+        <MessageVariables>
+          <MessageVariable Name="millis()" Index="1" />
+        </MessageVariables>
+      </BreakPoint>
+    </BreakPoints>
+  </Program>
+</VisualMicro>
